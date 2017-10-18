@@ -1,0 +1,11 @@
+body{
+  font-family: fantasy;
+  color: #0740b2;
+  padding: 10px;
+}
+
+.hello{
+  border: 5px solid #0740b2;
+  padding: 50px;
+  background-color: #bababa;
+}
